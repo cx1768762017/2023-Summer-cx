@@ -13,7 +13,7 @@
 * [第一次考核文档](https://github.com/Gamecore5/2023-Summer/blob/main/doc/First%20Trial/%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%80%83%E6%A0%B8%E6%96%87%E6%A1%A3.md)
 * 时间：6.18-6.25
 
-## 第二次考核
+## 第二次考核  
 * 了解Git&GitHub的相关知识，学会如何使用它们。补充学习C#初级编程，理解Roll a ball中每一行代码的含义与作用。
 * [第二次考核文档](https://github.com/Gamecore5/2023-Summer/blob/main/doc/Second%20Trial/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E8%80%83%E6%A0%B8%E6%96%87%E6%A1%A3.md)
 * 时间: 7.3-7.9
