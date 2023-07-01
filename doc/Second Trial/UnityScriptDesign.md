@@ -2,7 +2,7 @@
 ``` C#
 ///<summary>
 /// Gamecore 2022
-/// By 7ubbti and KevinChang
+/// By 7ubbti
 /// Originally Written in November 17, 2022
 ///<summary>
 ```    
