@@ -18,3 +18,7 @@
 * [第二次考核文档](https://github.com/Gamecore5/2023-Summer/blob/main/doc/Second%20Trial/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E8%80%83%E6%A0%B8%E6%96%87%E6%A1%A3.md)
 * 时间: 7.3-7.9
 
+## 第三次考核  
+* 自学制作一款3D双人对战的坦克大战游戏，并加入自己的创新，后续考核将进行优化和改进。
+* [第三次考核文档](https://github.com/Gamecore5/2023-Summer/blob/main/Third%20Trial/%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%80%83%E6%A0%B8%E6%96%87%E6%A1%A3.md)
+* 时间: 7.10-7.23
